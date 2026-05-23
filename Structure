@@ -1,0 +1,11 @@
+sme-pro/
+ ├── public/
+ │   ├── manifest.json
+ │   ├── sw.js
+ ├── src/
+ │   ├── App.js
+ │   ├── firebase.js
+ │   ├── i18n.js
+ │   ├── styles.css
+ ├── package.json
+ ├── netlify.toml
